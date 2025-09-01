@@ -1,0 +1,15 @@
+{
+  "count": 5,
+  "total_amount": 230.8,
+  "avg_amount": 46.16,
+  "max_transaction": {
+    "id": 4,
+    "category": "travel",
+    "amount": 120.0
+  },
+  "by_category": {
+    "food": 2,
+    "books": 2,
+    "travel": 1
+  }
+}
