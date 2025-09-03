@@ -1,0 +1,7 @@
+name,class,age,score,passed,level,zscore
+Alice,A,18.0,91.0,True,优秀,0.74
+Bob,A,19.0,58.0,False,不及格,-1.138
+Cindy,A,18.5,85.0,True,良好,0.398
+Derek,B,20.0,73.0,True,及格,-1.155
+Eva,B,19.0,99.0,True,优秀,0.577
+Frank,B,20.0,99.0,True,优秀,0.577

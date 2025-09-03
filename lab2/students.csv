@@ -1,0 +1,8 @@
+name,class,age,score
+Alice,A,18,91
+Bob,A,19,58
+Cindy,A,,85
+Derek,B,20,73
+Eva,B,19,99
+Frank,B,20,99
+Gary,B,21,NaN
